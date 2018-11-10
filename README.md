@@ -1,0 +1,2 @@
+# SparkStreaming实践
+使用python语言实现sparkstreaming的功能，通过使用socket进行实时流数据传输，sparkstreaming每隔10秒接收数据，并进行实时处理绘制词云图。
